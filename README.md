@@ -1,7 +1,9 @@
-= 贪吃蛇 v.10 =
-Author: *Wener*
-E-mail: *wenermail@gmail.com*
-Site: [[http://blog.wener.me]]
+贪吃蛇 v.10
+===========
+
+> Author: *Wener*
+> E-mail: *wenermail@gmail.com*
+> Site: [[http://blog.wener.me]]
 
 一个windows 在控制台下的小游戏
 
