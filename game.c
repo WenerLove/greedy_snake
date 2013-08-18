@@ -530,7 +530,7 @@ void process_play()
 	/* 初始化 */
 	if(changed_game_state())
 	{
-		// 按秒计 因为在初始化的时候重置了tine 所以暂停的时候不会影响
+		// 按秒计 因为在初始化的时候重置了time 所以暂停的时候不会影响
 		last_time = time(NULL);
 		// 按毫秒计
 		last_clock = clock();

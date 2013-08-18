@@ -7,8 +7,8 @@
 #ifdef DEBUG
 	#include <assert.h>
 
-	#define E(format,args...)	\
-		fprintf(stderr, format, ##args)
+	#define E(format ,args...)	\
+		fprintf(stderr, format, ##args);fputc('\n',stderr)
 	#define EA(condition, format, args...)	\
 		if(!(condition))	E(format, ##args);
 #else
