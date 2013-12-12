@@ -8,6 +8,8 @@ E-mail: *wenermail(at)gmail.com*
 
 Site: [Blog.wener.me](http://blog.wener.me)
 
+![贪吃蛇](https://raw.github.com/WenerLove/greedy_snake/master/screenshot.png "贪吃蛇 v1.0")
+
 ## 描述:
 *  一个windows 在控制台下的小游戏
 
