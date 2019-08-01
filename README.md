@@ -25,12 +25,12 @@ Site: [Blog.wener.me](http://blog.wener.me)
 
 ## 按键:
 *    上-下-左-右 控制方向/菜单选择
-*   <ESC>       退出游戏
-*   <R>         重新开始
-*   <S>         游戏保存
-*   <L>         游戏读取
-*   <SPACE>     暂停
-*   <M>         声音开关切换
+*   <kbd>ESC</kbd>       退出游戏
+*   <kbd>R</kbd>         重新开始
+*   <kbd>S</kbd>         游戏保存
+*   <kbd>L</kbd>         游戏读取
+*   <kbd>SPACE</kbd>     暂停
+*   <kbd>M</kbd>         声音开关切换
 
 
 ## 胜利条件:
